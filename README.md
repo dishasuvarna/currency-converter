@@ -1,2 +1,1 @@
-# currency-converter
-A simple Currency Converter mini project that converts amounts between different currencies using live exchange rates fetched from an external API.
+A simple mini project that converts currency values in real time using live exchange rates fetched from an external API.
